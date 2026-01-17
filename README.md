@@ -24,7 +24,7 @@ I’ve built and worked on full-stack systems involving:
 
 ### Selected projects
 
-Most of my active development happens in private or commercial repositories. Below are representative examples of what I’ve worked on:
+Most of my active development happens in private repositories. Below are representative examples of what I’ve worked on:
 
 * **Full-stack product platforms** – End-to-end systems with .NET APIs, PostgreSQL data models, and React or React Native frontends.
 * **Real-time applications** – Features using live updates, event streams, and client synchronization.
