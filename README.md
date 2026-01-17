@@ -1,40 +1,15 @@
-## Hi
+# 💫 About Me:
+Hi<br>I’m a full-stack developer focused on building real, production-ready software.<br><br>I work end-to-end across backend, frontend, and mobile — designing APIs, building user-facing applications, and deploying systems that are meant to be used in practice.<br><br>Tech stack<br>C# / .NET<br>React & React Native<br>PostgreSQL<br>Docker<br>Azure<br>What I work on<br>I’ve built and worked on full-stack systems involving:<br><br>REST APIs and backend services<br>Real-time features and event-driven updates<br>Authentication and authorization<br>Data modeling and persistence<br>Cloud deployment and infrastructure<br>Selected projects<br>Most of my active development happens in private repositories. Below are representative examples of what I’ve worked on:<br><br>Full-stack product platforms – End-to-end systems with .NET APIs, PostgreSQL data models, and React or React Native frontends.<br>Real-time applications – Features using live updates, event streams, and client synchronization.<br>API-driven systems – Secure, well-structured APIs designed for scalability and long-term maintenance.<br>Cloud-deployed services – Containerized applications deployed and maintained in Azure environments.<br>Public repositories here mainly serve as references or experiments, while my contribution activity reflects ongoing private work.<br><br>Goal<br>My goal is to build scalable, maintainable software that solves real problems and holds up in production over time.<br><br>I value clear architecture, practical solutions, and systems that are easy to understand, operate, and extend.
 
-I’m a full-stack developer focused on building real, production-ready software.
 
-I work end-to-end across backend, frontend, and mobile — designing APIs, building user-facing applications, and deploying systems that are meant to be used in practice.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ArsalaanSuleman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ArsalaanSuleman&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalaanSuleman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Tech stack
+---
+[![](https://visitcount.itsvg.in/api?id=ArsalaanSuleman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-* C# / .NET
-* React & React Native
-* PostgreSQL
-* Docker
-* Azure
-
-### What I work on
-
-I’ve built and worked on full-stack systems involving:
-
-* REST APIs and backend services
-* Real-time features and event-driven updates
-* Authentication and authorization
-* Data modeling and persistence
-* Cloud deployment and infrastructure
-
-### Selected projects
-
-Most of my active development happens in private repositories. Below are representative examples of what I’ve worked on:
-
-* **Full-stack product platforms** – End-to-end systems with .NET APIs, PostgreSQL data models, and React or React Native frontends.
-* **Real-time applications** – Features using live updates, event streams, and client synchronization.
-* **API-driven systems** – Secure, well-structured APIs designed for scalability and long-term maintenance.
-* **Cloud-deployed services** – Containerized applications deployed and maintained in Azure environments.
-
-Public repositories here mainly serve as references or experiments, while my contribution activity reflects ongoing private work.
-
-### Goal
-
-My goal is to build scalable, maintainable software that solves real problems and holds up in production over time.
-
-I value clear architecture, practical solutions, and systems that are easy to understand, operate, and extend.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
